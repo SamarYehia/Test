@@ -11,7 +11,7 @@
 <%
 
 String name=request.getParameter("name");
-
+out.print("hello");
 out.print("Hello "+name);
 %>
 
