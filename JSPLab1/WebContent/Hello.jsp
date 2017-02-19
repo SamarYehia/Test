@@ -14,6 +14,7 @@ String name=request.getParameter("name");
 out.print("hello ");
 out.print("World");
 out.print("Hello "+name);
+out.print("Hello JSP");
 %>
 
 </body>
